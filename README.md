@@ -2,7 +2,7 @@
 An unofficial API wrapper library for Asia Commercial Joint Stock Bank (ACB)
 
 <a href="https://github.com/AuraTeamAZ/DiscordNexus"><img src="https://github.com/AuraTeamAZ/ACB/actions/workflows/npm-publish-github-packages.yml/badge.svg" alt="CI" /></a>
-<a href="https://github.com/AuraTeamAZ/DiscordNexus/releases"><img alt="Github total downloads" src="https://img.shields.io/github/downloads/AuraTeamAZ/ACB/total?label=downloads%40total"></a>
+<a href="https://github.com/AuraTeamAZ/ACB/releases"><img alt="Github total downloads" src="https://img.shields.io/github/downloads/AuraTeamAZ/ACB/total?label=downloads%40total"></a>
 <a href="https://discord.gg/6ayTMsaEsa"><img src="https://img.shields.io/discord/1241921327720431626?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 
 # Install
