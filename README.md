@@ -22,7 +22,7 @@ const acb = new ACB({ username: "", password: "" });
 await acb.getBalance();
 ```
 
-- Get transaction history
+# Get transaction history
 ```ts
 await acb.getTransactionsHistory();
 ```
